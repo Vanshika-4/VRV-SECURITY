@@ -17,51 +17,51 @@ Project where Users can Register, LogIn and LogOut Securely. It is an Implementa
 
 ## Installation
 Set up a new or existing npm package
-'''bash
+```bash
 npm init
-
+```
 Install express by
-'''bash
+```bash
 npm i express
-
+```
 
 Set the file with Nodemon by installing nodemon and set it up by npm run dev
-'''bash
+```
 npm run dev
-
+```
 
 Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
-'''bash
+```
 npm i dotenv
-
+```
 CORS helps to prevent malicious websites from accessing sensitive information on your serve.
-'''bash
+```
 npm i cors
-
+```
 
 For connecting the website with database, here it is MongoDB. So we install moongose.
-'''bash
+```
 npm i mongoose
-
+```
 
 For password hashing, we use bcryptjs:
 bcryptjs is a JavaScript implementation of the bcrypt password hashing function
-'''bash
+```
 npm i bcryptjs
-
+```
 
 For Frontend, 
-'''bash
+```
 npm create @vitelatest
-
+```
 
 After that we install npm in client 
-'''bash 
+``` 
 npm install
-
+```
 
 for running the file for frontend, we use 
-'''bash 
+```
 npm run dev
-
+```
 
