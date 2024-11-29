@@ -60,7 +60,7 @@ After that we install npm in client
 npm install
 ```
 
-for running the file for frontend, we use 
+For running the file for frontend, we use 
 ```bash
 npm run dev
 ```
